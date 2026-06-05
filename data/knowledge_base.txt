@@ -1,0 +1,22 @@
+JhaMobi Technologies offers premium# JhaMobi Technologies - Corporate Knowledge Base
+
+## 1. Company Overview
+JhaMobi Technologies is a premier IT Services and IT Consulting firm headquartered in Pune, Maharashtra. Founded in 2016, this privately held company of 11-50 employees specializes in Web Technology, Cloud Technology, AI Technology, HealthTech, and NABH Consultancy. With over a decade of expertise, JhaMobi helps hospitals navigate modern digital requirements, including the latest NABH and ABDM guidelines, to achieve Digital Maturity.
+
+## 2. Web & Hospital Software Solutions
+JhaMobi builds secure, custom software tailored to specific hospital needs. Core modules include:
+- HIS & EMR: Systems for seamless hospital and electronic patient record management.
+- LIMS: Advanced Laboratory Information Management Systems.
+- Administrative Tools: Comprehensive HRMS/Payroll, Accounting, and Learning Management Systems (LMS).
+- Patient Flow: Efficient Walk-In Management systems.
+
+## 3. Cloud & Infrastructure Solutions
+JhaMobi modernizes HealthTech IT by moving critical systems (HIS, EMR, PACS) to a secure, flexible cloud infrastructure designed to protect against cyberattacks and hardware failures. 
+- Cost Savings: High-performance cloud services provided at an 80% cost savings compared to AWS or other major providers.
+- Backup & Disaster Recovery: Automated data protection ensuring hospitals stay operational 24/7.
+- Seamless Migration: Secure transfer of data with zero hassle.
+
+## 4. AI Technology & Services
+JhaMobi offers "plug-and-play" AI tools that improve patient engagement without complex technical setups:
+- AI Chatbots: 24/7 automated systems for appointment booking and answering patient queries.
+- Social Media Automation: Tools to automatically maintain a professional presence across 10+ platforms, keeping hospitals connected with the community.
